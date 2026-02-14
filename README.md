@@ -1,3 +1,3 @@
 # Startpack
 
-Project Startpack.
+Pawsome's Startpack.
